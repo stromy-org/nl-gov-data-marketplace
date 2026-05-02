@@ -1,0 +1,17 @@
+{
+  "$schema": "https://claude.ai/schemas/marketplace-v1.json",
+  "name": "dutch-data-marketplace",
+  "owner": { "name": "stromy-org" },
+  "plugins": [
+    {
+      "name": "dutch-data",
+      "description": "Combines Dutch government open data (Tweede Kamer, Rijksoverheid, BWB legislation, ROO organizations) with branded document output (PDF, DOCX, PPTX, PPTX-HD, Mermaid diagrams). Branded with Rijkshuisstijl.",
+      "version": "0.1.0",
+      "author": "stromy-org",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/stromy-org/dutch-data-plugin.git"
+      }
+    }
+  ]
+}
