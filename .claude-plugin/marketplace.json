@@ -1,5 +1,5 @@
 {
-  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
   "name": "dutch-data-marketplace",
   "description": "Plugin marketplace for Dutch Data Claude Code plugins",
   "owner": {
@@ -11,11 +11,11 @@
       "description": "Claude Code plugin for Dutch Data branded deliverables",
       "version": "0.1.0",
       "author": {
-        "name": "Corentin Merle"
+        "name": "stromy-org"
       },
       "source": {
-        "source": "url",
-        "url": "https://github.com/stromy-org/dutch-data-plugin.git"
+        "source": "github",
+        "repo": "stromy-org/dutch-data-plugin"
       }
     }
   ]
