@@ -8,8 +8,8 @@
   "plugins": [
     {
       "name": "nl-gov-data-plugin",
-      "description": "Claude Code plugin for NL Gov Data branded deliverables",
-      "version": "0.2.0",
+      "description": "Claude Code plugin exposing Dutch government data intelligence skills via the nl-gov-data MCP — intel tooling only, no document formatting",
+      "version": "0.3.0",
       "author": {
         "name": "stromy-org"
       },
